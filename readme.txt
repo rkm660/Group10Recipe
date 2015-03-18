@@ -12,6 +12,8 @@ Usage:
 
 	python recipe11.py <url> <output filename>
 
+	EX: python recipe11.py “http://www.allrecipes.com/Recipe/Meatloaf-Stuffing/“ “output.json”
+
 where 
 	
 	<url> is the http address of a recipe from AllRecipes.com, and
